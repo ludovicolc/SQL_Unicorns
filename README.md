@@ -1,5 +1,5 @@
 # SQL_Unicorns
-Pulizia ed esplorazione del dataset Unicorns 2022 contente informazioni riguardo gli 'Unicorns' a livello mondiale, ovvero imprese private aventi
+Pulizia ed esplorazione del dataset Unicorns 2022 contenente informazioni riguardo gli 'Unicorns' a livello mondiale, ovvero imprese private aventi
 una valutazione pari o superiore ad 1 miliardo di dollari.
 
 I dati grezzi sono stati ottenuti da Kaggle.com e successivamente rielaborati attraverso google sheet per facilitarne l'uso.
